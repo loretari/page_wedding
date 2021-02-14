@@ -168,6 +168,12 @@ hr {
   
 }
 
+.container2 {
+	 max-width: 800px;
+    margin: 0 auto;
+   color: #2C1320;
+
+}
 .text {
 	
 	padding: 30px;
