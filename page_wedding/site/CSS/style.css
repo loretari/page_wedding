@@ -63,6 +63,13 @@ header {
 /* Taisyklės viso puslapio klasėje "container" esantiems elementams Header dalyje ikonai "Žvaigždė", h1, nuorodai a "Visit us Today", main dalyje esantiems article elemntams - img, tekstui*/
 
 .container {
+	
+	max-width: 800px;
+	margin: 0 auto;
+	color: #2C1320;
+}
+
+.container7 {
 	text-align: justify;
 	max-width: 800px;
 	margin: 0 auto;
